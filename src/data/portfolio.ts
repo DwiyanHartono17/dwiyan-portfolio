@@ -13,9 +13,9 @@ export const profile = {
     'Senior Backend Developer',
     'System Analyst',
   ],
-  yearsExperience: '5+ years',
+  yearsExperience: '9+ years',
   summary:
-    "Hello, I'm Dwiyan, a Fullstack Software Developer working in the Information Technology consulting and software house sector. I have more than 5 years of experience in the software development field, building web platforms, backend services, and mobile applications.",
+    "Hello, I'm Dwiyan, a Fullstack Software Developer working in the Information Technology consulting and software house sector. I have more than 9 years of experience in the software development field, building web platforms, backend services, and mobile applications.",
   email: 'm.dwiyan.hartono@gmail.com',
   website: 'www.dwiyanhartono.com',
   websiteUrl: 'https://www.dwiyanhartono.com',
